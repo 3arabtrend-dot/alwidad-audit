@@ -44,4 +44,3 @@ jobs:
           path: |
             source_products.json
             source_products.csv
-
